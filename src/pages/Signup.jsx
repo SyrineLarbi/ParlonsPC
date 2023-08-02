@@ -1,7 +1,7 @@
-import React,{useState} from 'react'
+// import React,{useState} from 'react'
 import {Form, Input, Button, Checkbox, Row,Col, message} from "antd"
 import { LockOutlined, MailOutlined ,UserAddOutlined} from '@ant-design/icons';
-import { get } from "lodash";
+// import { get } from "lodash";
 import SocialNetworks from './SocialNetworks';
 
 
